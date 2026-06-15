@@ -16,4 +16,4 @@ Attendance & absence comparison across 4 classes | Score distribution per class 
  Tools used: Power BI | DAX | Data Modeling | Data Visualization
 This project taught me how to turn raw data into clear, actionable insights for educational institutions — helping educators identify gaps, track progress, and make data-driven decisions.
 and this is dashboard
-![Screenshot 2026-06-15 181307.png](/Screenshot 2026-06-15 181307.png)
+![Overview](stident/dash1.png)
