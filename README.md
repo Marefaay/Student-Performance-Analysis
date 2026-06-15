@@ -15,3 +15,5 @@ Math: 76.8% | English: 75.5% | Science: 74.3% | Top 5 students identified across
 Attendance & absence comparison across 4 classes | Score distribution per class | Consistent overall pass rate: 94.7%
  Tools used: Power BI | DAX | Data Modeling | Data Visualization
 This project taught me how to turn raw data into clear, actionable insights for educational institutions — helping educators identify gaps, track progress, and make data-driven decisions.
+and this is dashboard
+![Screenshot 2026-06-15 181307.png]
